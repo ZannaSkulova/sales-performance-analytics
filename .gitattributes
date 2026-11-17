@@ -1,0 +1,2 @@
+# keep CSV line endings as they are, BULK INSERT expects LF
+*.csv -text
